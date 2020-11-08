@@ -20,3 +20,4 @@ I left very dicriptive commits
 
 Here is a link to the deployed page https://mrfivefourone.github.io/Code-Refactor/
 
+![screenshot of website](/Code-Refactor/assets/images/Screenshot-for-code-refactor-readme.jpg "screenshot of website")
